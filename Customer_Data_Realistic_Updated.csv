@@ -1,0 +1,101 @@
+CustomerID,CustomerName,ContactName,Address,City,PostalCode,State,Country,Age,Credit_Score
+1,William Smith,Ms. William Smith,5042 Market St,San Antonio,78201,TX,USA,58,573
+2,Ava Brown,Dr. Ava Brown,1428 2nd Ave,San Antonio,78201,TX,USA,25,373
+3,Emma Williams,Dr. Emma Williams,3855 Market St,Los Angeles,90001,CA,USA,19,475
+4,Benjamin Brown,Prof. Benjamin Brown,8452 Broadway,Phoenix,85001,AZ,USA,65,846
+5,Benjamin Garcia,Ms. Benjamin Garcia,216 Market St,Houston,77001,TX,USA,35,550
+6,Isabella Jones,Prof. Isabella Jones,9507 Elm St,Dallas,75201,TX,USA,33,467
+7,Isabella Brown,Ms. Isabella Brown,3034 2nd Ave,San Antonio,78201,TX,USA,32,773
+8,Ava Williams,Mr. Ava Williams,2841 Market St,Philadelphia,19101,PA,USA,26,688
+9,Isabella Williams,Ms. Isabella Williams,5379 2nd Ave,San Antonio,78201,TX,USA,65,576
+10,Sophia Smith,Dr. Sophia Smith,5273 Main St,New York,10001,NY,USA,24,524
+11,Ava Martinez,Dr. Ava Martinez,8437 Broadway,San Antonio,78201,TX,USA,61,632
+12,Sophia Johnson,Dr. Sophia Johnson,4380 Main St,San Diego,92101,CA,USA,65,357
+13,Michael Martinez,Mr. Michael Martinez,9171 Market St,Los Angeles,90001,CA,USA,75,534
+14,John Williams,Ms. John Williams,7496 Broadway,San Antonio,78201,TX,USA,52,332
+15,Michael Garcia,Mr. Michael Garcia,9444 Main St,San Jose,95101,CA,USA,23,623
+16,Isabella Johnson,Ms. Isabella Johnson,6882 Broadway,San Diego,92101,CA,USA,55,710
+17,Olivia Johnson,Mr. Olivia Johnson,2109 2nd Ave,San Diego,92101,CA,USA,45,574
+18,Olivia Martinez,Mr. Olivia Martinez,6333 Main St,Houston,77001,TX,USA,20,367
+19,Emma Davis,Ms. Emma Davis,6302 Elm St,Philadelphia,19101,PA,USA,19,516
+20,Isabella Martinez,Prof. Isabella Martinez,5123 Elm St,San Diego,92101,CA,USA,23,622
+21,Benjamin Martinez,Dr. Benjamin Martinez,376 Elm St,New York,10001,NY,USA,31,517
+22,James Davis,Prof. James Davis,5235 2nd Ave,San Antonio,78201,TX,USA,32,811
+23,John Williams,Dr. John Williams,3791 Market St,Chicago,60601,IL,USA,50,705
+24,John Davis,Dr. John Davis,3870 Market St,Dallas,75201,TX,USA,56,769
+25,Sophia Rodriguez,Ms. Sophia Rodriguez,8698 Main St,New York,10001,NY,USA,19,446
+26,Isabella Johnson,Ms. Isabella Johnson,4024 Elm St,San Antonio,78201,TX,USA,53,571
+27,William Davis,Mr. William Davis,8009 Market St,Los Angeles,90001,CA,USA,30,442
+28,James Miller,Prof. James Miller,4180 2nd Ave,San Antonio,78201,TX,USA,63,552
+29,Sophia Smith,Ms. Sophia Smith,9788 Main St,Houston,77001,TX,USA,59,569
+30,Ava Miller,Dr. Ava Miller,5661 Market St,New York,10001,NY,USA,62,738
+31,William Davis,Dr. William Davis,5501 Market St,New York,10001,NY,USA,52,708
+32,Isabella Martinez,Prof. Isabella Martinez,8151 Broadway,Phoenix,85001,AZ,USA,44,670
+33,Michael Williams,Mr. Michael Williams,923 Main St,San Diego,92101,CA,USA,32,524
+34,Isabella Davis,Mr. Isabella Davis,7591 Market St,Houston,77001,TX,USA,46,441
+35,Sophia Johnson,Prof. Sophia Johnson,4909 Elm St,Phoenix,85001,AZ,USA,55,821
+36,Michael Garcia,Dr. Michael Garcia,8913 Elm St,Dallas,75201,TX,USA,35,805
+37,Ava Johnson,Prof. Ava Johnson,3262 Main St,Dallas,75201,TX,USA,69,393
+38,Benjamin Davis,Dr. Benjamin Davis,3518 2nd Ave,Phoenix,85001,AZ,USA,73,348
+39,Benjamin Garcia,Mr. Benjamin Garcia,550 Main St,Los Angeles,90001,CA,USA,18,412
+40,Sophia Jones,Mr. Sophia Jones,3416 2nd Ave,Houston,77001,TX,USA,66,456
+41,Ava Miller,Ms. Ava Miller,1655 2nd Ave,San Antonio,78201,TX,USA,69,463
+42,Benjamin Miller,Ms. Benjamin Miller,5385 2nd Ave,New York,10001,NY,USA,28,732
+43,Emma Williams,Mr. Emma Williams,2133 Main St,San Diego,92101,CA,USA,62,365
+44,Michael Jones,Ms. Michael Jones,5865 Main St,Chicago,60601,IL,USA,45,694
+45,Isabella Garcia,Ms. Isabella Garcia,8216 Main St,San Diego,92101,CA,USA,39,690
+46,Michael Davis,Prof. Michael Davis,5520 Broadway,New York,10001,NY,USA,35,779
+47,John Brown,Prof. John Brown,9169 2nd Ave,San Antonio,78201,TX,USA,27,841
+48,James Smith,Mr. James Smith,6900 2nd Ave,Houston,77001,TX,USA,31,557
+49,Sophia Smith,Dr. Sophia Smith,1847 Main St,New York,10001,NY,USA,66,311
+50,Ava Jones,Dr. Ava Jones,4160 2nd Ave,San Diego,92101,CA,USA,39,417
+51,Benjamin Jones,Prof. Benjamin Jones,8379 Elm St,Chicago,60601,IL,USA,24,849
+52,Sophia Johnson,Mr. Sophia Johnson,6353 Elm St,New York,10001,NY,USA,23,573
+53,Isabella Johnson,Prof. Isabella Johnson,8048 Broadway,Dallas,75201,TX,USA,42,648
+54,Ava Miller,Ms. Ava Miller,8362 Broadway,San Diego,92101,CA,USA,24,414
+55,James Miller,Dr. James Miller,7240 Elm St,Chicago,60601,IL,USA,40,600
+56,William Jones,Dr. William Jones,5807 Broadway,Dallas,75201,TX,USA,72,745
+57,Michael Miller,Dr. Michael Miller,5144 Main St,San Diego,92101,CA,USA,40,461
+58,James Williams,Ms. James Williams,6694 2nd Ave,San Jose,95101,CA,USA,56,764
+59,William Williams,Mr. William Williams,508 Broadway,Los Angeles,90001,CA,USA,34,303
+60,Sophia Miller,Ms. Sophia Miller,4999 2nd Ave,New York,10001,NY,USA,69,569
+61,Olivia Jones,Dr. Olivia Jones,3706 Elm St,Phoenix,85001,AZ,USA,20,812
+62,Ava Davis,Prof. Ava Davis,7630 Market St,Los Angeles,90001,CA,USA,64,482
+63,Sophia Davis,Mr. Sophia Davis,7046 Broadway,Phoenix,85001,AZ,USA,47,819
+64,William Garcia,Dr. William Garcia,7375 Market St,Phoenix,85001,AZ,USA,52,408
+65,Michael Miller,Ms. Michael Miller,1256 Market St,San Diego,92101,CA,USA,25,605
+66,Ava Brown,Dr. Ava Brown,6688 Market St,Dallas,75201,TX,USA,42,819
+67,Sophia Rodriguez,Ms. Sophia Rodriguez,5381 Elm St,Dallas,75201,TX,USA,23,503
+68,Olivia Miller,Mr. Olivia Miller,582 Market St,Los Angeles,90001,CA,USA,53,456
+69,Sophia Brown,Ms. Sophia Brown,2325 Main St,San Diego,92101,CA,USA,36,682
+70,Sophia Rodriguez,Dr. Sophia Rodriguez,2668 Broadway,New York,10001,NY,USA,71,465
+71,Benjamin Johnson,Ms. Benjamin Johnson,1594 Main St,Dallas,75201,TX,USA,58,843
+72,Michael Jones,Dr. Michael Jones,6682 Broadway,Houston,77001,TX,USA,57,300
+73,Benjamin Martinez,Dr. Benjamin Martinez,2406 Broadway,Dallas,75201,TX,USA,74,631
+74,Ava Brown,Ms. Ava Brown,7096 2nd Ave,New York,10001,NY,USA,73,800
+75,Olivia Garcia,Dr. Olivia Garcia,5538 2nd Ave,San Antonio,78201,TX,USA,41,319
+76,Olivia Jones,Prof. Olivia Jones,1936 Broadway,Philadelphia,19101,PA,USA,54,414
+77,James Brown,Prof. James Brown,7862 2nd Ave,Houston,77001,TX,USA,30,671
+78,William Miller,Mr. William Miller,8612 2nd Ave,Dallas,75201,TX,USA,63,614
+79,Olivia Brown,Prof. Olivia Brown,2274 Elm St,San Diego,92101,CA,USA,22,545
+80,Benjamin Johnson,Ms. Benjamin Johnson,9959 2nd Ave,San Antonio,78201,TX,USA,20,359
+81,Benjamin Miller,Dr. Benjamin Miller,8181 2nd Ave,San Antonio,78201,TX,USA,60,546
+82,Olivia Rodriguez,Ms. Olivia Rodriguez,7403 Elm St,San Antonio,78201,TX,USA,32,380
+83,Benjamin Jones,Dr. Benjamin Jones,7838 Market St,San Antonio,78201,TX,USA,67,387
+84,Isabella Miller,Dr. Isabella Miller,4207 Elm St,Chicago,60601,IL,USA,36,797
+85,Ava Rodriguez,Ms. Ava Rodriguez,8935 Elm St,Houston,77001,TX,USA,23,370
+86,Emma Jones,Mr. Emma Jones,5654 Market St,San Jose,95101,CA,USA,72,845
+87,Isabella Johnson,Mr. Isabella Johnson,7957 Main St,San Jose,95101,CA,USA,32,428
+88,Michael Martinez,Dr. Michael Martinez,7549 Elm St,Chicago,60601,IL,USA,73,431
+89,John Miller,Ms. John Miller,2549 Market St,San Jose,95101,CA,USA,24,786
+90,Olivia Johnson,Dr. Olivia Johnson,9579 Main St,New York,10001,NY,USA,42,469
+91,James Brown,Ms. James Brown,8815 2nd Ave,San Jose,95101,CA,USA,35,571
+92,Emma Johnson,Ms. Emma Johnson,8668 Broadway,San Antonio,78201,TX,USA,47,840
+93,James Davis,Prof. James Davis,9633 Main St,New York,10001,NY,USA,58,733
+94,James Martinez,Prof. James Martinez,3513 Broadway,New York,10001,NY,USA,71,516
+95,James Johnson,Dr. James Johnson,9031 Main St,Houston,77001,TX,USA,41,505
+96,Benjamin Miller,Ms. Benjamin Miller,969 2nd Ave,San Antonio,78201,TX,USA,28,619
+97,Ava Garcia,Dr. Ava Garcia,2315 Broadway,Los Angeles,90001,CA,USA,41,708
+98,Isabella Davis,Dr. Isabella Davis,763 Main St,Philadelphia,19101,PA,USA,40,682
+99,Michael Davis,Prof. Michael Davis,5902 Broadway,Philadelphia,19101,PA,USA,31,748
+100,Benjamin Smith,Mr. Benjamin Smith,9049 Main St,Chicago,60601,IL,USA,60,829
